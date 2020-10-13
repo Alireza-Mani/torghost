@@ -8,8 +8,6 @@ TorGhost is an anonymization script. TorGhost redirects all internet traffic thr
 
 `cd torghost`
 
-`git checkout manjaro`
-
 `chmod +x build.sh`
 
 `./build.sh`
